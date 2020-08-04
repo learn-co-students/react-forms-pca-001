@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 class DisplayData extends React.Component {
   render() {
